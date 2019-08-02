@@ -9,7 +9,6 @@ x = 10
 print('one way to define a cell')
 x = 10
 
-
 # %%: another way to define code cell
 print('a second one')
 x = 2*x
