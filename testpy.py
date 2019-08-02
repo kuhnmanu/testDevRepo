@@ -7,7 +7,6 @@ x = 10
 
 # %%: one way to define python code cell
 print('one way to define a cell')
-
 x = 10
 
 # %%: another way to define code cell
