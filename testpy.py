@@ -15,7 +15,8 @@ print('a second one')
 x = 2*x
 x
 
-# %%:e next cell
+
+# %%: a next cell
 # Data for plotting
 
 # Simple tests
